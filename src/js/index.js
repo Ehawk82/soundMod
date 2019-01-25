@@ -1,1 +1,1 @@
-function playClick(x) => { return x.volume = "0.5", x.play() };
+function playClick(x) { return x.volume = "0.5", x.play() };
